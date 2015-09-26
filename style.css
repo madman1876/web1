@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 ; 
     margin: 0 auto;
+=======
+*{
+    
+    font-family:sans-serif;
+    
+   background-color:#d5d5d5;
+    ;
+>>>>>>> master
 }
 img{
    
@@ -127,4 +136,8 @@ p{
     left:-2px;
     top:70px;
     float: left;
+<<<<<<< HEAD
     }
+=======
+    }
+>>>>>>> master
